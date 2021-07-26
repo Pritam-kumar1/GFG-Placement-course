@@ -1,0 +1,5 @@
+void updateArray(int arr[], int index, int element){
+    //Your code here
+    arr[index]=element;
+    
+}
